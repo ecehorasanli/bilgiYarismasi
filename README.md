@@ -1,2 +1,2 @@
-# bilgiYarismasi
- 
+
+![bilgiYarismasi - Gif ](outputs/bilgi.gif)
